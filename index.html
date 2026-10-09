@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MCA Student Result System</title>
+    <!-- Linking external CSS file -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>MCA Department - Result Portal</h1>
+
+        <!-- Registration Form -->
+        <div class="registration-box">
+            <h2>Enter Student Details</h2>
+            <form id="studentForm">
+                <div class="form-group">
+                    <div class="input-box">
+                        <label>Roll No</label>
+                        <input type="text" id="rollNo" required placeholder="e.g. MCA001">
+                    </div>
+                    <div class="input-box">
+                        <label>Student Name</label>
+                        <input type="text" id="studentName" required placeholder="Full Name">
+                    </div>
+                    <div class="input-box">
+                        <label>Semester</label>
+                        <select id="semester" required>
+                            <option value="Sem 1">Semester 1</option>
+                            <option value="Sem 2">Semester 2</option>
+                            <option value="Sem 3">Semester 3</option>
+                            <option value="Sem 4">Semester 4</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- MCA Core Subjects -->
+                <div class="form-group">
+                    <div class="input-box">
+                        <label>Data Structures (0-100)</label>
+                        <input type="number" id="dsMarks" required min="0" max="100" placeholder="Marks">
+                    </div>
+                    <div class="input-box">
+                        <label>Java Programming (0-100)</label>
+                        <input type="number" id="javaMarks" required min="0" max="100" placeholder="Marks">
+                    </div>
+                    <div class="input-box">
+                        <label>DBMS (0-100)</label>
+                        <input type="number" id="dbmsMarks" required min="0" max="100" placeholder="Marks">
+                    </div>
+                </div>
+                <p class="error-msg" id="errorMsg">Marks must be between 0 and 100!</p>
+                <button type="submit">Generate Result</button>
+            </form>
+        </div>
+
+        <!-- Result Table -->
+        <div class="table-box">
+            <h2>MCA Students Record</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Roll No</th>
+                        <th>Name</th>
+                        <th>Semester</th>
+                        <th>Total Marks</th>
+                        <th>Percentage</th>
+                        <th>Status</th>
+                    </tr>
+                </thead>
+                <tbody id="student-table-body">
+                    <!-- JavaScript se data yahan aayega -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- Linking external JavaScript file -->
+    <script src="script.js"></script>
+</body>
+</html>

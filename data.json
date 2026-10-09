@@ -1,0 +1,162 @@
+[
+    {
+        "roll_no": "MCA001",
+        "Name": "Aarav Sharma",
+        "Semester": "Sem 3",
+        "Total": 245,
+        "Percentage": "81.67",
+        "Status": "Pass"
+    },
+    {
+        "roll_no": "MCA002",
+        "Name": "Sneha Gupta",
+        "Semester": "Sem 1",
+        "Total": 105,
+        "Percentage": "35.00",
+        "Status": "Fail"
+    },
+    {
+        "roll_no": "MCA003",
+        "Name": "Rohan Verma",
+        "Semester": "Sem 2",
+        "Total": 260,
+        "Percentage": "86.67",
+        "Status": "Pass"
+    },
+    {
+        "roll_no": "MCA004",
+        "Name": "Priya Desai",
+        "Semester": "Sem 4",
+        "Total": 210,
+        "Percentage": "70.00",
+        "Status": "Pass"
+    },
+    {
+        "roll_no": "MCA005",
+        "Name": "Amit Kumar",
+        "Semester": "Sem 1",
+        "Total": 115,
+        "Percentage": "38.33",
+        "Status": "Fail"
+    },
+    {
+        "roll_no": "MCA006",
+        "Name": "Neha Singh",
+        "Semester": "Sem 3",
+        "Total": 285,
+        "Percentage": "95.00",
+        "Status": "Pass"
+    },
+    {
+        "roll_no": "MCA007",
+        "Name": "Vikram Rajput",
+        "Semester": "Sem 2",
+        "Total": 140,
+        "Percentage": "46.67",
+        "Status": "Fail"
+    },
+    {
+        "roll_no": "MCA008",
+        "Name": "Kavita Patil",
+        "Semester": "Sem 4",
+        "Total": 235,
+        "Percentage": "78.33",
+        "Status": "Pass"
+    },
+    {
+        "roll_no": "MCA009",
+        "Name": "Rahul Nair",
+        "Semester": "Sem 3",
+        "Total": 195,
+        "Percentage": "65.00",
+        "Status": "Pass"
+    },
+    {
+        "roll_no": "MCA010",
+        "Name": "Anjali Joshi",
+        "Semester": "Sem 2",
+        "Total": 110,
+        "Percentage": "36.67",
+        "Status": "Fail"
+    },
+    {
+        "roll_no": "MCA011",
+        "Name": "Karan Mehra",
+        "Semester": "Sem 1",
+        "Total": 220,
+        "Percentage": "73.33",
+        "Status": "Pass"
+    },
+    {
+        "roll_no": "MCA012",
+        "Name": "Pooja Trivedi",
+        "Semester": "Sem 4",
+        "Total": 275,
+        "Percentage": "91.67",
+        "Status": "Pass"
+    },
+    {
+        "roll_no": "MCA013",
+        "Name": "Suresh Iyer",
+        "Semester": "Sem 3",
+        "Total": 180,
+        "Percentage": "60.00",
+        "Status": "Fail"
+    },
+    {
+        "roll_no": "MCA014",
+        "Name": "Divya Reddy",
+        "Semester": "Sem 2",
+        "Total": 200,
+        "Percentage": "66.67",
+        "Status": "Pass"
+    },
+    {
+        "roll_no": "MCA015",
+        "Name": "Manoj Tiwari",
+        "Semester": "Sem 1",
+        "Total": 255,
+        "Percentage": "85.00",
+        "Status": "Pass"
+    },
+    {
+        "roll_no": "MCA016",
+        "Name": "Ishita Sen",
+        "Semester": "Sem 4",
+        "Total": 95,
+        "Percentage": "31.67",
+        "Status": "Fail"
+    },
+    {
+        "roll_no": "MCA017",
+        "Name": "Aditya Roy",
+        "Semester": "Sem 3",
+        "Total": 215,
+        "Percentage": "71.67",
+        "Status": "Pass"
+    },
+    {
+        "roll_no": "MCA018",
+        "Name": "Meera Menon",
+        "Semester": "Sem 2",
+        "Total": 230,
+        "Percentage": "76.67",
+        "Status": "Pass"
+    },
+    {
+        "roll_no": "MCA019",
+        "Name": "Nikhil Agarwal",
+        "Semester": "Sem 1",
+        "Total": 125,
+        "Percentage": "41.67",
+        "Status": "Fail"
+    },
+    {
+        "roll_no": "MCA020",
+        "Name": "Shruti Das",
+        "Semester": "Sem 4",
+        "Total": 265,
+        "Percentage": "88.33",
+        "Status": "Pass"
+    }
+]
